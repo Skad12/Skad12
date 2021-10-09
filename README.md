@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skad12
 - 👀 I’m interested in PHP Developer
 - 🌱 I’m currently using Laravel Framework 
-- 💞️ I’m looking to collaborate on frontend projects
+- 💞️ I’m currently looking to collaborate on frontend projects
 - 📫 How to reach me @stephenkunle26@gmail.com, +2348164768989
 
 <!---

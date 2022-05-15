@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skad12
-- 👀 I’m interested in PHP Developer
-- 🌱 I’m currently using Laravel Framework 
+- 👀 I’m interested in Front-end Designs
+- 🌱 I’m currently using Next.Js  
 - 💞️ I’m currently looking to collaborate on frontend projects
 - 📫 How to reach me @stephenkunle26@gmail.com, +2348164768989
 

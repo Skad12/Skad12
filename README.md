@@ -1,4 +1,4 @@
--  Hi, I’m @Skad12 👨🏿‍💻
+-  Hi, I’m @Skad👨🏿‍💻
 -  I’m interested in Front-end Designs 🚀
 -  I’m currently using Tailwindcss & React (Next)
 -  I’m currently looking to collaborate on Frontend Projects
